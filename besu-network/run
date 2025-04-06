@@ -1,0 +1,14 @@
+docker run -p <localportJSON-RPC>:8545 -p <localportWS>:8546 -p <localportP2P>:30303 hyperledger/besu:latest --rpc-http-enabled --rpc-ws-enabled
+
+
+
+{
+  address: '0xBD2a2B005C9ceD15293EfCFE6a570372EC3AF566',
+  privateKey: '0x2fbb9a361b37e9f0537e98d8ebb2c42de3b8553339b00a8eb6b836b8c4794d3d',
+  signTransaction: [Function: signTransaction],
+  sign: [Function: sign],
+  encrypt: [Function: encrypt]
+}
+
+?뵍 Validator Address: 0xB5De9620164CeD2453D1beC8FD9Ace3A451c134d
+?뵎 Private Key: 0x95afc758fbe4b2e21fd4938611b746205999f0588b28eb279efa804db4a598e7
