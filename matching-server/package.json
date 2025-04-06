@@ -9,6 +9,10 @@
   "author": "dongjae",
   "license": "Apache-2.0",
   "dependencies": {
-    "express": "^5.1.0"
+    "crypto": "^1.0.1",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9",
+    "router": "^2.2.0",
+    "web3": "^4.16.0"
   }
 }
